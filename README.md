@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 My name is Yasmin Aguilar and I currently work as a Software QA Analyst! I am trying to build up my Github and refresh my coding skills to move over to an Software Developer in Test (SDET) role. 😄
+
+##About ME ✨
+  - I am a Libra♎
+  - I work from home, so I live like a vampire (never see the sunlight)🧛
+  - I have 2 cats (Maggie and Cookie)🐈‍⬛
 
 <!--
 **yasminaguilarx/yasminaguilarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
